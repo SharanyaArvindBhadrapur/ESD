@@ -1,3 +1,5 @@
+/*Mersenne Prime is a prime number that is one less than a power of two.  (2^k)-1*/
+
 import java.lang.Math;
 class Mersenne{
 
